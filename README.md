@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student<br>👯 I want to contribute in open sources<br>
+🔭 I’m currently 3rd year student<br>And my area of intrest is Web Development<br>
 
 
 ## 🌐 Socials:
