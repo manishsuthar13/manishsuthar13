@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently 3rd year student<br>And my area of intrest is Web Development<br>
+🔭 Hey gigs, I’m a SDE intern and a BTech 4th year student<br>And my areas of interest are designing, architecture, development, deployment, ai/ml ..... in short a full stack + AI things <br>
 
 
 ## 🌐 Socials:
